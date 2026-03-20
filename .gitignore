@@ -1,0 +1,8 @@
+# Datasets no utilizados
+Data_Set_1/
+Data_Set_4/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
